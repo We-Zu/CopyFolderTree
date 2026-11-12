@@ -24,11 +24,11 @@ C:\Windows\System32
 ```
 **生成的目录树：**
 
-![目录树生成效果](CopyFolderTree/images/tree-example.png)
+![目录树生成效果](CopyFolderTree/blob/main/images/tree-example.png)
 
 **右键菜单集成：**
 
-![右键菜单截图](CopyFolderTree/images/context-menu.png)
+![右键菜单截图](CopyFolderTree/blob/main/images/context-menu.png)
 ##  功能特点
 
 - **原生无依赖**：纯 PowerShell + Batch 实现，无需安装 Python、Node.js 等第三方运行环境。
